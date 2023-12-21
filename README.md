@@ -1,6 +1,8 @@
-# Project using Vue, Vuetify
+# Project using Vue and Vuetify
 
 WeDay is a project that serves as a wedding dresses online store. It is a eCommerce project with a simple, clean, responsive and minimalistic design with a decorative text and some delicate colorful elements. Vue and Vuetify are the technologies used to create it.
+
+#### Please run npm install and npm run serve in order to run it.
 
 ## References:
 Links used in the process of creating this web application: 
